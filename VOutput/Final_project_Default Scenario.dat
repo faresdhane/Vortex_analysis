@@ -1,0 +1,14 @@
+    Year (Census)
+    Proportion of populations extant, SE
+    Proportion of populations going extinct for the first time in year, SE
+    Deterministic growth, Stochastic growth, SE, SD
+    Mean population size (across extant populations), SE, SD
+    Mean population size (across all populations), SE, SD
+    Mean expected heterozygosity, SE, SD
+    Mean inbreeding coefficient, SE, SD
+    Mean number of alleles, SE, SD
+    Mean number of lethal alleles, SE, SD
+    Mean time to extinction, SE, SD
+    Median time to extinction
+Year;PExtant;SE(PExtant);PExtinct;SE(PExtinct);r-det;r-stoch;SE(r);SD(r);Nextant;SE(Nextant);SD(Nextant);Nall;SE(Nall);SD(Nall);Het;SE(Het);SD(Het);Inbr;SE(Inbr);SD(Inbr);Nalleles;SE(Nalleles);SD(Nalleles);Nlethals;SE(Nlethals);SD(Nlethals);TE;SE(TE);SD(TE);medTE
+Default Scenario

@@ -1,0 +1,3 @@
+$Scenario: SF_ST(8)
+$Populations: Population1              
+Year (Census);    N;   AM;   AF;  Subadults; Juv; nDams; nBroods; nProgeny; nImmigrants; nEmigrants; nHarvested; nSupplemented; GS1; GS2; GS3; GS4; GS5; GS6
